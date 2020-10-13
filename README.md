@@ -1,9 +1,9 @@
-#IP HUNTER 
+# IP HUNTER 
 An objective was given to us, it was to be able to create an IP Hunter that was able to detect and analyze any IP given and get as many information as possible about that IP.
 
 IP HUNTER is an opensource program for soc analyst, it helps with collect data from a specifi IP address
 
-###More tools:
+### More tools:
 
 
 IP Hunter has
@@ -14,7 +14,7 @@ IP Hunter has
 - SSL scan
 - Management Database
 
-##Installation
+## Installation
 Per l'installazione di "Ip Hunter" è necessario installare Python 3.3.x o successive.
 Si consiglia la creazione di un virtual enviroment (abbrev. venv) per fare tutti i test del prodotto ed eventuale sviluppo.
 
@@ -52,7 +52,7 @@ Una volta attivato il venv, andare nella cartella iphunter e dare il comando di 
 
 python -m pip install -r requirements.txt
 
-###########################################################################################################################
+
 # estratto del file requirements.txt 
 
 - python_nmap==0.6.1
@@ -65,7 +65,7 @@ python -m pip install -r requirements.txt
 - passlib==1.7.2
 - PyQt5==5.15.1
 
-##Possibile Errore di nmap
+## Possibile Errore di nmap
 potresti riscontrare il problema del PortScanner non presente
 In caso di errori su nmap port verificare che non siano stati installati contemporaneamente nmap e python-nmap...
 Disinstallare tutti i package nmap,procedere come segue:
@@ -74,7 +74,7 @@ Disinstallare tutti i package nmap,procedere come segue:
 3. python -m pip install python-nmap
 4. uscire e rientrare da visual studio
 
-##Usage
+## Usage
 IP Hunter GUI is userfriendly
 
 There is a home page with a IP general search with all the IP Hunter tools and after that ips are stored in database.
@@ -85,26 +85,26 @@ thr other tools are placed in the left menu, it appears when the menu button is 
 
 ![HomePage](https://github.com/Andrxid/IP-Hunter/blob/main/img/2020-10-13%2012_57_07-.png)
 
-##Tools
+## Tools
 
-###Whois
+### Whois
 - Insert a valid Ip address it will display the Whois API results
 
 ![HomePage](https://github.com/Andrxid/IP-Hunter/blob/main/img/2020-10-12%2020_55_37-.png)
 
-###Abuse
+### Abuse
 - Insert a valid Ip address it will display the Abuse API results
 
 ![HomePage](https://github.com/Andrxid/IP-Hunter/blob/main/img/2020-10-12%2020_55_39-.png)
 
-###Radar
+### Radar
 - Insert a valid Ip address it will display the Geolocalization API results
 
 
 ![HomePage](https://github.com/Andrxid/IP-Hunter/blob/main/img/2020-10-12%2020_55_42-.png)
 
-###SSL Scan
-#####Warning this is an incomplete Task!!!!!
+### SSL Scan
+##### Warning this is an incomplete Task!!!!!
 - Insert a valid Ip address it will display the ssl results
 
 ![HomePage](https://github.com/Andrxid/IP-Hunter/blob/main/img/2020-10-12%2020_55_45-.png)
