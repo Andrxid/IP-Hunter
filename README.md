@@ -1,4 +1,3 @@
-# IP-Hunter
 #IP HUNTER 
 An objective was given to us, it was to be able to create an IP Hunter that was able to detect and analyze any IP given and get as many information as possible about that IP.
 
@@ -84,35 +83,38 @@ thr other tools are placed in the left menu, it appears when the menu button is 
 
 
 
-![HomePage](Andrxid/IP-Hunter/img/2020-10-13 12_57_07-.png)
+![HomePage](https://github.com/Andrxid/IP-Hunter/blob/main/img/2020-10-13%2012_57_07-.png)
 
 ##Tools
 
 ###Whois
 - Insert a valid Ip address it will display the Whois API results
 
-![HomePage](C:\Users\admin\Pictures\scre\2020-10-12 20_55_37-.png)
+![HomePage](https://github.com/Andrxid/IP-Hunter/blob/main/img/2020-10-12%2020_55_37-.png)
 
 ###Abuse
 - Insert a valid Ip address it will display the Abuse API results
 
-![HomePage](C:\Users\admin\Pictures\scre\2020-10-12 20_55_39-.png)
+![HomePage](https://github.com/Andrxid/IP-Hunter/blob/main/img/2020-10-12%2020_55_39-.png)
 
 ###Radar
 - Insert a valid Ip address it will display the Geolocalization API results
-![HomePage](C:\Users\admin\Pictures\scre\2020-10-12 20_55_42-.png)
+
+
+![HomePage](https://github.com/Andrxid/IP-Hunter/blob/main/img/2020-10-12%2020_55_42-.png)
 
 ###SSL Scan
 #####Warning this is an incomplete Task!!!!!
 - Insert a valid Ip address it will display the ssl results
-![HomePage](C:\Users\admin\Pictures\scre\2020-10-12 20_55_45-.png)
+
+![HomePage](https://github.com/Andrxid/IP-Hunter/blob/main/img/2020-10-12%2020_55_45-.png)
 
 ### Database
 - Search a specific private or public IP address
 
-![HomePage](C:\Users\admin\Pictures\scre\2020-10-12 20_55_48-.png)
-![HomePage](C:\Users\admin\Pictures\scre\2020-10-12 20_55_51-.png)
-![HomePage](C\2020-10-12 20_56_03-.png)
+![HomePage](https://github.com/Andrxid/IP-Hunter/blob/main/img/2020-10-12%2020_55_48-.png)
+![HomePage](https://github.com/Andrxid/IP-Hunter/blob/main/img/2020-10-12%2020_55_51-.png)
+![HomePage](https://github.com/Andrxid/IP-Hunter/blob/main/img/2020-10-12%2020_56_03-.png)
 
 
 
