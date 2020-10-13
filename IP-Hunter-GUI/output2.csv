@@ -1,0 +1,4 @@
+host,hostname,hostname_type,protocol,port,name,state,product,extrainfo,reason,version,conf,cpe
+
+8.8.8.8,dns.google,PTR,tcp,443,https,open,sffe,,syn-ack,,10,
+
